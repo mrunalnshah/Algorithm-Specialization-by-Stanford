@@ -12,6 +12,8 @@ Date Completed: INCOMPLETE (IN PROGRESS)
 
 The problem set and programming assignment solutions are uploaded only for reference purposes. Please attempt the quizzes and programming assignments yourself and only look at the explanations if you find that you still can't understand it after consulting the discussion forums and reviewing the lecture content.
 
+***[To Learn/Get the pseudo-codes and implementation of algorithms with analysis](https://github.com/mrunalnshah/Algorithms)***
+
 ## Content
 ### [Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%201)
 #### Progress: 3rd of MARCH 2023 - INCOMPLETE
