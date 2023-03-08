@@ -14,8 +14,6 @@
 
 using namespace std;
 
-// First subarray is arr[l..m]
-// Second subarray is arr[m+1..r]
 void merge(int arr[], int temp_array[], int low, int mid, int high) {
     int i = low;
     int j = mid;
