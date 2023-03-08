@@ -1,10 +1,10 @@
 # stanford-algorithms-specialization
-Problem Set and Programming Assignment Solutions in C++ to Stanford University's Algorithms Specialization on [Coursera](https://www.coursera.org/specializations/algorithms) &amp; [edX](https://www.edx.org/course/algorithms-design-and-analysis).
+Problem Set and Programming Assignment Solutions in C++ to Stanford University's Algorithms Specialization on [Coursera](https://www.coursera.org/specializations/algorithms)
 
 **Instructor**: [Tim Roughgarden](https://www.coursera.org/instructor/~768)
 
 ## Introduction
-This repository contains the problem set and programming assignment solutions in C++ to the specialization. On Coursera, the specialization consists of four courses.
+This repository contains the courseWork Algorithms, problem set and programming assignment solutions in C/C++ to the specialization. On Coursera, the specialization consists of four courses.
 
 Date Started: 3rd of MARCH 2023
 
