@@ -18,6 +18,8 @@
 
 using namespace std;
 
+
+// low(starts from 0)  ... mid(low + high)/2 ... high(sizeofarray - 1)
 class DAC{
 public:
     long long SortCountInv(vector<int>& Arr, int low, int high) {
@@ -30,7 +32,7 @@ public:
             return 0;
         }
 
-        int mid = low + (high-low)/2;    // same as (l+r)/2, but avoid overflow for large l and r
+        int mid = low + (high-low)/2;    // same as (low+high)/2, but avoid overflow for large low and high
         long long leftInv = SortCountInv(Arr, low, mid);
         long long rightInv = SortCountInv(Arr, mid+1, high);
         long long splitInv = MergeCountSplitInv(Arr, low, mid, high);
