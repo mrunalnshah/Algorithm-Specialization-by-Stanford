@@ -24,3 +24,9 @@ Week 1 :
     * [Programming Assignment #1 with Recursive Integer Multiplication](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%201/Assignments%20and%20Quiz/02.Programming%20Assignment%20%231(Recursive%20Integer%20Multiplication).cpp)
 * [Coursework](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%201)
     * [Merge Sort](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%201/MergeSort.cpp)
+
+Week 2 :
+ * [Programming Assignment and Quiz](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%202/Assignments%20and%20Quiz)
+    * [Problem Set](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%202/Assignments%20and%20Quiz/01.%20Problem%20Set%20(%20QUIZ%20).png)
+    * [Programming Assignment #2](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%202/Assignments%20and%20Quiz/02.Programming%20Assignment%20%232.cpp)
+* [Coursework](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%202)
