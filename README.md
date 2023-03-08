@@ -10,7 +10,7 @@ Date Started: 3rd of MARCH 2023
 
 Date Completed: INCOMPLETE (IN PROGRESS)
 
-The problem set and programming assignment solutions are uploaded only for reference purposes. Please attempt the quizzes and programming assignments yourself and only look at the explanations if you find that you still can't understand it after consulting the discussion forums and reviewing the lecture content.
+The problem set and programming assignment solutions are uploaded only for reference purposes. Please attempt the quizzes and programming assignments yourself and only look at the solutions/explanations if you find that you still can't understand it after consulting the discussion forums and reviewing the lecture content. I hope there is no misuse of the reference content.
 
 ***[To Learn/Get the pseudo-codes and implementation of algorithms with analysis](https://github.com/mrunalnshah/Algorithms)***
 
