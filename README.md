@@ -43,4 +43,4 @@ Week 3 :
     * [Deterministic Selection](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%204/deterministicselection.cpp)
     * [Randomized Selection](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%204/randomizedselection.cpp)
 FINAL EXAM
-*  [Final Exam](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%204/Assignments%20and%20Quiz/03.%20Final%20Exam.png)
+   * [Final Exam](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%204/Assignments%20and%20Quiz/03.%20Final%20Exam.png)
