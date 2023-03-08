@@ -96,24 +96,14 @@ string karatsuba (string x, string y, int n) {
 
         string ad_plus_bc = combine(ad, bc);
 
-        //cout << "\nis: " << ad_plus_bc << "\n";
         putZero(&ac, n);
         putZero(&ad_plus_bc, n/2);
-
-/*
-        cout << "ac * 10^n: " << ac << "\n";
-        cout << "bd: " << bd << "\n";
-        cout << "ad: " << ad << "\n";
-        cout << "bc: " << bc << "\n";
-        cout << "ad+bc * 10^n/2: " << ad_plus_bc << "\n";
-*/
 
         string result = combine(combine(ac, ad_plus_bc), bd);
         return result;
 
     }
     else {
-        //cout << "x: " << x << " y: " << y << "\t" << "x.y: " << integerMultiplication(x, y) << "\n";
         return integerMultiplication(x, y);
     }
 }
@@ -132,6 +122,4 @@ int main () {
 
 
     cout << "Karatsuba Multiplication : " << karatsuba(x, y, x.size()) << endl;
-
-    //cout << combine(x, y) << endl;
 }
