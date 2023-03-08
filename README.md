@@ -17,7 +17,7 @@ The problem set and programming assignment solutions are uploaded only for refer
 ## Content
 ### [Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%201)
 #### Progress: 3rd of MARCH 2023 - INCOMPLETE
-Week 1:
+Week 1 / Module 1:
  * [Programming Assignment and Quiz](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%201/Assignments%20and%20Quiz)
     * [Problem Set](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%201/Assignments%20and%20Quiz/01.%20Problem%20Set%20(%20QUIZ%20).png)
     * [Programming Assignment #1 with Karatsuba's Algorithm](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%201/Assignments%20and%20Quiz/02.Programming%20Assignment%20%231%20(Karatsuba's%20algorithm).cpp)
