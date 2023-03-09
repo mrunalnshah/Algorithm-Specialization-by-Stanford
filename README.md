@@ -11,8 +11,8 @@ The problem set and programming assignment solutions are uploaded only for refer
 ***[To Learn/Get the pseudo-codes and implementation of algorithms with analysis](https://github.com/mrunalnshah/Algorithms)***
 
 ## Content
-## [Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/edit/main/README.md#course-1-divide-and-conquer-sorting-and-searching-and-randomized-algorithms-1)
-## [Course 2:  Graph Search, Shortest Paths, and Data Structures](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/edit/main/README.md#course-2--graph-search-shortest-paths-and-data-structures-1)
+#### [Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford#course-1-divide-and-conquer-sorting-and-searching-and-randomized-algorithms-1)
+#### [Course 2:  Graph Search, Shortest Paths, and Data Structures](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford#course-2--graph-search-shortest-paths-and-data-structures-1)
 
 ### [Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%201)
 Week 1 :
