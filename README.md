@@ -11,6 +11,9 @@ The problem set and programming assignment solutions are uploaded only for refer
 ***[To Learn/Get the pseudo-codes and implementation of algorithms with analysis](https://github.com/mrunalnshah/Algorithms)***
 
 ## Content
+## [Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/edit/main/README.md#course-1-divide-and-conquer-sorting-and-searching-and-randomized-algorithms-1)
+## [Course 2:  Graph Search, Shortest Paths, and Data Structures](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/edit/main/README.md#course-2--graph-search-shortest-paths-and-data-structures-1)
+
 ### [Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%201)
 Week 1 :
  * [Programming Assignment and Quiz](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%201/Assignments%20and%20Quiz)
@@ -44,3 +47,23 @@ Week 3 :
 
 FINAL EXAM of COURSE 1 :
 * [Final Exam](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%204/Assignments%20and%20Quiz/03.%20Final%20Exam.png)
+
+
+### [Course 2:  Graph Search, Shortest Paths, and Data Structures](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/02.%20Graph%20Search%2C%20Shortest%20Paths%2C%20and%20Data%20Structures)
+Week 1 :
+ * [Programming Assignment and Quiz](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/02.%20Graph%20Search%2C%20Shortest%20Paths%2C%20and%20Data%20Structures/Module%201/Programming%20Assignment%20and%20Quiz)
+    * [Problem Set](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/02.%20Graph%20Search%2C%20Shortest%20Paths%2C%20and%20Data%20Structures/Module%201/Programming%20Assignment%20and%20Quiz/01.%20Problem%20Set%20%231.png)
+    * [Programming Assignment #1](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/02.%20Graph%20Search%2C%20Shortest%20Paths%2C%20and%20Data%20Structures/Module%201/Programming%20Assignment%20and%20Quiz/02.%20Programming%20Assignment%20%231.cpp)
+* [Coursework](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/02.%20Graph%20Search%2C%20Shortest%20Paths%2C%20and%20Data%20Structures/Module%201)
+    * [Breadth First Search](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/02.%20Graph%20Search%2C%20Shortest%20Paths%2C%20and%20Data%20Structures/Module%201/Breadth%20First%20Search.cpp)
+    * [Depth First Search](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/02.%20Graph%20Search%2C%20Shortest%20Paths%2C%20and%20Data%20Structures/Module%201/Depth%20First%20Search.cpp)
+    * [Shortest Path](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/02.%20Graph%20Search%2C%20Shortest%20Paths%2C%20and%20Data%20Structures/Module%201/Shortest%20Path.cpp)
+    * [Topological Sort](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/02.%20Graph%20Search%2C%20Shortest%20Paths%2C%20and%20Data%20Structures/Module%201/Topological%20Sort.cpp)
+
+Week 2 :
+ * [Programming Assignment and Quiz](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/02.%20Graph%20Search%2C%20Shortest%20Paths%2C%20and%20Data%20Structures/Module%202/Programming%20Assignment%20and%20Quiz)
+    * [Problem Set](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/02.%20Graph%20Search%2C%20Shortest%20Paths%2C%20and%20Data%20Structures/Module%202/Programming%20Assignment%20and%20Quiz/01.%20Problem%20Set%20%232.png)
+    * [Programming Assignment #2](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/02.%20Graph%20Search%2C%20Shortest%20Paths%2C%20and%20Data%20Structures/Module%202/Programming%20Assignment%20and%20Quiz/02.%20dijkstra.cpp)
+    * [Programming Assignment #2 Using Heaps](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/02.%20Graph%20Search%2C%20Shortest%20Paths%2C%20and%20Data%20Structures/Module%202/Programming%20Assignment%20and%20Quiz/02.%20dijkstra%20(using%20heaps).cpp)
+* [Coursework](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/02.%20Graph%20Search%2C%20Shortest%20Paths%2C%20and%20Data%20Structures/Module%202)
+
