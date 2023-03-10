@@ -29,6 +29,10 @@ Week 2 :
     * [Problem Set](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%202/Assignments%20and%20Quiz/01.%20Problem%20Set%20(%20QUIZ%20).png)
     * [Programming Assignment #2](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%202/Assignments%20and%20Quiz/02.Programming%20Assignment%20%232.cpp)
 * [Coursework](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%202)
+    * [max2](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%202/max2.cpp)
+    * [local min](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%202/localmin.cpp)
+    * [index value](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%202/indexvalue.cpp)
+    * [uni-modal](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%202/unimodal.cpp)
 
 Week 3 :
  * [Programming Assignment and Quiz](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%203/Assignments%20and%20Quiz)
