@@ -14,6 +14,7 @@ The problem set and programming assignment solutions are uploaded only for refer
 #### [Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford#course-1-divide-and-conquer-sorting-and-searching-and-randomized-algorithms-1)
 #### [Course 2:  Graph Search, Shortest Paths, and Data Structures](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford#course-2--graph-search-shortest-paths-and-data-structures-1)
 #### [Course 3:  Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford#course-3--greedy-algorithms-minimum-spanning-trees-and-dynamic-programming-1)
+#### [Course 4:  Shortest Paths Revisited, NP-Complete Problems and What To Do About Them]()
 
 ### [Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/01.%20Divide%20and%20Conquer%2C%20Sorting%20and%20Searching%2C%20and%20Randomized%20Algorithms/Module%201)
 Week 1 :
@@ -126,3 +127,37 @@ Week 4 :
 
 FINAL EXAM OF COURSE 3 :
 * [FINAL EXAM](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/03.%20Greedy%20Algorithms%2C%20Minimum%20Spanning%20Trees%2C%20and%20Dynamic%20Programming/Module%204/Programming%20Assignment%20and%20Quiz/04.%20Final%20Exam.png)
+
+
+### [Course 4:  Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them)
+Week 1 :
+ * [Programming Assignment and Quiz](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them/Module%201/Programming%20Assignment%20and%20Quiz)
+    * [Problem Set](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them/Module%201/Programming%20Assignment%20and%20Quiz/01.%20Problem%20Set%20%231.png)
+    * [Programming Assignment #1](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them/Module%201/Programming%20Assignment%20and%20Quiz/01.%20Programming%20Assignment%20%231.cpp)
+* [Coursework](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them/Module%201)
+    * [Bellman Ford Algorithm](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them/Module%201/bellmanford.cpp)
+    * [Floyd Warshall Algorithm](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them/Module%201/floydwarshall.cpp)
+
+Week 2 :
+ * [Programming Assignment and Quiz](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them/Module%202/Programming%20Assignment%20and%20Quiz)
+    * [Problem Set](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them/Module%202/Programming%20Assignment%20and%20Quiz/01.%20Problem%20Set%20%232.png)
+    * [Programming Assignment #2](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them/Module%202/Programming%20Assignment%20and%20Quiz/02.%20Programming%20Assignment%20%232.cpp)
+* [Coursework](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them/Module%202)
+    * [Travelling Salesman Problem](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them/Module%202/travelling_salesman_problem.cpp)
+
+Week 3 :
+ * [Programming Assignment and Quiz](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them/Module%203/Programming%20Assignment%20and%20Quiz)
+    * [Problem Set](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them/Module%203/Programming%20Assignment%20and%20Quiz/01.%20Problem%20Set%20%233.png)
+    * [Programming Assignment #3](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them/Module%203/Programming%20Assignment%20and%20Quiz/02.%20Programming%20Assignement%20%233.cpp)
+* [Coursework](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them/Module%203)
+
+Week 4 :
+ * [Programming Assignment and Quiz](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them/Module%204/Programming%20Assignment%20and%20Quiz)
+    * [Problem Set](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them/Module%204/Programming%20Assignment%20and%20Quiz/01.%20Problem%20Set%20%234.png)
+    * [Programming Assignment #4](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them/Module%204/Programming%20Assignment%20and%20Quiz/02.%20Programming%20Assignment%20%234.cpp)    
+* [Coursework](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/tree/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them/Module%204)
+
+
+FINAL EXAM OF COURSE 4 :
+* [FINAL EXAM](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford/blob/main/04.%20Shortest%20Paths%20Revisited%2C%20NP-Complete%20Problems%20and%20What%20To%20Do%20About%20Them/Module%204/Programming%20Assignment%20and%20Quiz/03.%20Final%20Exam.png)
+
