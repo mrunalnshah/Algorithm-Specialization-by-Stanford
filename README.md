@@ -6,7 +6,17 @@ Problem Set and Programming Assignment Solutions in C++ to Stanford University's
 ## Introduction
 This repository contains the courseWork Algorithms, problem set and programming assignment solutions in C/C++ to the specialization. On Coursera, the specialization consists of four courses.
 
-The problem set and programming assignment solutions are uploaded only for reference purposes. Please attempt the quizzes and programming assignments yourself and only look at the solutions/explanations if you find that you still can't understand it after consulting the discussion forums and reviewing the lecture content. I hope there is no misuse of the reference content.
+#### NOTE 
+***
+<p class="has-line-data" data-line-start="0" data-line-end="2">Dear GitHub Users,<br>
+I encourage you to use the code and solutions available on GitHub as a reference to learn and deepen your understanding of programming concepts. However, we strongly advise against using the code and solutions to complete your coursework without attempting the exercises yourself.</p>
+<p class="has-line-data" data-line-start="3" data-line-end="4">Learning to code requires practice and problem-solving skills, and simply copying code without understanding it will hinder your progress in the long run. Instead, use the code and solutions as a reference to guide your learning and understanding of the concepts.</p>
+<p class="has-line-data" data-line-start="5" data-line-end="6">Remember, the purpose of education is not just to pass a course but to develop the skills and knowledge needed to succeed in your career. So, we urge you to take the time to learn and practice the material, and use the available resources as a tool to enhance your learning.</p>
+<p class="has-line-data" data-line-start="7" data-line-end="8">Happy coding!</p>
+<p class="has-line-data" data-line-start="9" data-line-end="11">Sincerely,<br>
+Mrunal Nirajkumar Shah</p>
+
+***
 
 ***[To Learn/Get the pseudo-codes and implementation of algorithms with analysis](https://github.com/mrunalnshah/Algorithms)***
 
