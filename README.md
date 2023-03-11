@@ -1,5 +1,5 @@
 # stanford-algorithms-specialization
-Problem Set and Programming Assignment Solutions in C++ to Stanford University's Algorithms Specialization on [Coursera](https://www.coursera.org/specializations/algorithms)
+Problem Set, Programming Assignment Solutions and Coursework in C++ to Stanford University's Algorithms Specialization on [Coursera](https://www.coursera.org/specializations/algorithms)
 
 **Instructor**: [Tim Roughgarden](https://www.coursera.org/instructor/~768)
 
